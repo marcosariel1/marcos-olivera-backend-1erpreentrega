@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "remera",
+    "description": "remera verde",
+    "code": "agew123",
+    "price": 500,
+    "status": true,
+    "stock": 5,
+    "category": "ropa",
+    "thumbnail": [
+      ""
+    ]
+  },
+  {
+    "id": 1,
+    "title": "buzo",
+    "description": "buzo verde",
+    "code": "agew124",
+    "price": 800,
+    "status": true,
+    "stock": 2,
+    "category": "ropa",
+    "thumbnail": [
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "title": "gorrra",
+    "description": "gorra de abrigo",
+    "code": "agew125",
+    "price": 200,
+    "status": true,
+    "stock": 8,
+    "category": "ropa",
+    "thumbnail": [
+      ""
+    ]
+  }
+]
